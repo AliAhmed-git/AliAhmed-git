@@ -8,11 +8,12 @@ I'm a passionate developer with a love for creating, learning, and solving probl
 - **Game Development:** Unity Engine
 - **Web Development:** HTML, CSS, JavaScript
 - **Creative Writing:** Technical and creative writing
-
+- **Additional Skills:** Chess, Abstractism, Art and easily understanding material
 ## 🌱 What I'm Currently Learning
 
 - Exploring AI & Machine Learning
-- 
+- Learning Many New Skills
+
 ## 💡 Interests
 
 - Building games and interactive experiences  
