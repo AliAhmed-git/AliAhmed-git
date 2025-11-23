@@ -23,9 +23,9 @@ I'm a passionate developer with a love for creating, learning, and solving probl
 ## 📫 Connect with me
 
 - [GitHub](https://github.com/AliAhmed-git)  
-- [LinkedIn](https://www.linkedin.com/in/ali-ahmed)  
-- [Portfolio/Blog]()
-
+- [LinkedIn](https://www.linkedin.com/in/ali-ahmed-janjua-9bb657398?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+- [Portfolio/Blog] - Coming Soon
+-[Itch.io](https://faarek.itch.io/)
 ---
 
 _"Code is like poetry, and I love crafting both."_  
