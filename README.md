@@ -1,33 +1,41 @@
 # Hi there, I'm Ali Ahmed 👋
 
-I'm a passionate developer with a love for creating, learning, and solving problems. My journey spans multiple areas of technology and creativity, including Python, Unity C#, Web Development, and Writing.
+I'm a passionate developer who loves building things, learning continuously, and solving problems creatively. My journey spans multiple areas of technology — from Python and Unity to web development and writing.
+
+---
 
 ## 🔧 Skills & Expertise
 
 - **Programming Languages:** Python, C#
-- **Game Development:** Unity Engine
+- **Game Development:** Unity (C#)
 - **Web Development:** HTML, CSS, JavaScript
-- **Creative Writing:** Technical and creative writing
-- **Additional Skills:** Chess, Abstractism, Art and easily understanding material
-## 🌱 What I'm Currently Learning
+- **Writing:** Technical & creative writing  
+- **Other Skills:** Chess, abstract thinking, art, fast learning
 
-- Exploring AI & Machine Learning
-- Learning Many New Skills
+---
+
+## 🌱 Currently Learning
+
+- AI & Machine Learning  
+- Expanding skills through hands-on projects  
+
+---
 
 ## 💡 Interests
 
 - Building games and interactive experiences  
-- Learning new programming languages and frameworks
-- Building Projects
+- Exploring new technologies and frameworks  
+- Creating practical and creative projects  
 
-## 📫 Connect with me
-
-- [GitHub](https://github.com/AliAhmed-git)  
-- [LinkedIn](https://www.linkedin.com/in/ali-ahmed-janjua-9bb657398?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
--
-[Itch.io](https://faarek.itch.io/)
--
-[Portfolio/Blog] - Coming Soon
 ---
 
-_"Code is like poetry, and I love crafting both."_  
+## 📫 Connect With Me
+
+- **GitHub:** [AliAhmed-git](https://github.com/AliAhmed-git)  
+- **LinkedIn:** [Ali Ahmed Janjua](https://www.linkedin.com/in/ali-ahmed-janjua-9bb657398)  
+- **Itch.io:** [faarek.itch.io](https://faarek.itch.io/)  
+- **Portfolio/Blog:** Coming Soon  
+
+---
+
+> _"Code is like poetry, and I love crafting both."_
