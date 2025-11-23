@@ -1,4 +1,4 @@
-# Hi there, I'm Ali Ahmed 👋
+#	>WHOAMI
 
 I'm a passionate developer who loves building things, learning continuously, and solving problems creatively. My journey spans multiple areas of technology — from Python and Unity to web development and writing.
 
