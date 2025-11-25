@@ -1,58 +1,58 @@
-# <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ali+Ahmed;Developer+%7C+Game+Dev+%7C+Writer">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2800&pause=1200&color=0078FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ali+Ahmed;Developer+%7C+Game+Dev+%7C+Writer">
-  <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2800&pause=1200&color=0078FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ali+Ahmed;Developer+%7C+Game+Dev+%7C+Writer">
-</picture>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=00E5FF&center=false&vCenter=false&width=435&lines=WHOAMI;Ali+Ahmed;Aspiring+AI+Engineer;Developer+%26+Game+Developer">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=0078FF&center=false&vCenter=false&width=435&lines=WHOAMI;Ali+Ahmed;Aspiring+AI+Engineer;Developer+%26+Game+Developer">
+    <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=0078FF&center=false&vCenter=false&width=435&lines=WHOAMI;Ali+Ahmed;Aspiring+AI+Engineer;Developer+%26+Game+Developer">
+  </picture>
+</p>
 
-A passionate developer who loves building things, learning continuously, and solving problems creatively.
-
----
-
-## ⚡ Skills & Expertise
-
-<table>
-<tr>
-<td>
-
-### 🧩 Programming  
-- Python  
-- C#  
-
-### 🎮 Game Dev  
-- Unity (C#)  
-
-</td>
-<td>
-
-### 🌐 Web Dev  
-- HTML  
-- CSS  
-- JavaScript  
-
-### ✍️ Writing  
-- Technical  
-- Creative  
-
-</td>
-</tr>
-</table>
+A passionate developer who loves building things, learning continuously, and solving problems creatively. I focus on practical projects, game development, and learning the tools that power modern AI.
 
 ---
 
-## 📘 Currently Learning  
-- AI & Machine Learning  
-- Hands-on project-based skill expansion  
+## ⚡ Quick Peek
+
+- **Name:** Ali Ahmed  
+- **Role:** Aspiring AI Engineer • Developer • Game Developer  
+- **Goal:** Build practical, creative projects (games, tools, web apps) while exploring AI & machine learning  
 
 ---
 
-## 🎯 Interests  
+## 🧩 Skills & Expertise
+
+| Programming | Game Dev | Web | Writing |
+|---:|:---:|:---:|:---:|
+| Python | Unity (C#) | HTML | Technical Writing |
+| C# | Gameplay Systems | CSS | Creative Writing |
+| Scripting | Prototyping | JavaScript | Docs & Tutorials |
+
+---
+
+## 📘 Currently Learning
+
+- Applied AI & Machine Learning  
+- Unity performance & advanced systems  
+- Model usage, deployment & pipeline basics  
+
+---
+
+## 🎯 Interests
+
 - Games & interactive experiences  
-- New technologies & frameworks  
-- Practical + creative projects  
+- New frameworks & technologies  
+- Practical, small, polished projects  
 
 ---
 
-## 🌐 Connect With Me
+## 🔭 Project Highlights
+
+- **NamazLock** — A lightweight utility that auto-locks your PC during prayer times  
+- **Games on Itch.io** — Small polished prototypes & gameplay experiments  
+- **AI Experiments** — ML notebooks, small models, and practical tests  
+
+---
+
+## 🌐 Connect with Me
 
 <p align="left">
 
@@ -84,5 +84,12 @@ A passionate developer who loves building things, learning continuously, and sol
 
 ---
 
-## ✨ Personal Motto  
-> **“Code is like poetry, and I love crafting both.”**
+## ✍️ Tips
+
+- Add links to your actual projects for more impact  
+- Add small GIFs of Unity gameplay if you want visual flair  
+- Keep sections short & readable (recruiters skim fast)  
+
+---
+
+*Want me to make it more professional, more minimal, funnier, or super clean? Just tell me the vibe.*
